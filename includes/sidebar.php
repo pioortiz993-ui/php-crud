@@ -2,19 +2,20 @@
                     <div class="sb-sidenav-menu">
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading">Core</div>
-                            <a class="nav-link" href="index.html">
+                            <a class="nav-link" href="dashboard.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Dashboard
                             </a>
                             
-                            <div class="sb-sidenav-menu-heading">USERS</div>
-                            <a class="nav-link" href="charts.html">
+                            <div class="sb-sidenav-menu-heading">System</div>
+                            
+                            <a class="nav-link" href="add_user.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
-                                Add user
+                                Add User
                             </a>
-                            <a class="nav-link" href="tables.html">
-                                <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
-                                User Lists
+                            <a class="nav-link" href="user_list.php">
+                                <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
+                                User List
                             </a>
                         </div>
                     </div>

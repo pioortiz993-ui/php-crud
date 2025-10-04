@@ -1,11 +1,14 @@
-<?php include '../includes/header.php';?>
+<?php include '../includes/header.php'; ?>
 
     <body class="sb-nav-fixed">
-        <?php include '../includes/navbar.php';?>
+
+        <?php include '../includes/navbar.php'; ?>
 
         <div id="layoutSidenav">
             <div id="layoutSidenav_nav">
-                <?php include '../includes/sidebar.php';?>
+
+                <?php include '../includes/sidebar.php'; ?>
+
             </div>
             <div id="layoutSidenav_content">
                 <main>
@@ -115,11 +118,13 @@
                         </div>
                     </div>
                 </main>
-                <footer class="py-4 bg-light mt-auto">
-                    <?php include '../includes/footer.php';?>
-                </footer>
+
+                <?php include '../includes/footer.php'; ?>
+
             </div>
         </div>
-        <?php include '../includes/scripts.php';?>
+
+        <?php include '../includes/scripts.php'; ?>
+
     </body>
 </html>
